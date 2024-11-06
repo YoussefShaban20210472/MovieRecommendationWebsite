@@ -126,17 +126,17 @@ The website uses several strategies to ensure a smooth user experience:
 
 The Movie Recommendation Website was developed to provide a seamless user experience, allowing users to explore trending movies, search for their favorites, and view detailed information about movies and actors. By leveraging **React.js** and the **TMDb API**, this platform provides users with an intuitive and engaging way to discover new films.
 
-Here are some screenshots of the Movie Recommendation Website:
+Here are some Screenshots of the Movie Recommendation Website:
 
-![Home page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/HomePage.png)
-![Result Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ResultPage.png)
-![NowPlaying Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/nowPlayingPage.png)
-![Popular Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/PopularPage.png)
-![TopRated Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/TopRatedPage.png)
-![Upcoming Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/UpcomingPage.png)
-![Actor Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ActorPage.png)
-![Actor's Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/Actor'sMediaPage.png)
-![Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/MediaPage.png)
-![Favorites Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/FavoritesPage.png)
+![Home page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/HomePage.png)
+![Result Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/ResultPage.png)
+![NowPlaying Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/nowPlayingPage.png)
+![Popular Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/PopularPage.png)
+![TopRated Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/TopRatedPage.png)
+![Upcoming Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/UpcomingPage.png)
+![Actor Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/ActorPage.png)
+![Actor's Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/Actor'sMediaPage.png)
+![Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/MediaPage.png)
+![Favorites Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/Screenshots/FavoritesPage.png)
 
 ---
