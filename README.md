@@ -130,7 +130,7 @@ Here are some screenshots of the Movie Recommendation Website:
 
 ![Home page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/HomePage.png)
 ![Result Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ResultPage.png)
-![NowPlaying Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/NowPlayingPage.png)
+![NowPlaying Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/nowPlayingPage.png)
 ![TopRated Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/TopRatedPage.png)
 ![Upcoming Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/UpcomingPage.png)
 ![Actor Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ActorPage.png)
