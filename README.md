@@ -126,4 +126,9 @@ The website uses several strategies to ensure a smooth user experience:
 
 The Movie Recommendation Website was developed to provide a seamless user experience, allowing users to explore trending movies, search for their favorites, and view detailed information about movies and actors. By leveraging **React.js** and the **TMDb API**, this platform provides users with an intuitive and engaging way to discover new films.
 
+Here are some screenshots of the Movie Recommendation Website:
+
+![Home page Screenshot](Screenshots/HomePage.png)
+![Result Page Screenshot](Screenshots/ResultPage.png)
+![now Playing Page Screenshot](Screenshots/NowPlayingPage.png)
 ---
