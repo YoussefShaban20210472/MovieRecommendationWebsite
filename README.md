@@ -130,5 +130,12 @@ Here are some screenshots of the Movie Recommendation Website:
 
 ![Home page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/mainScreenShotsHomePage.png)
 ![Result Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ResultPage.png)
-![now Playing Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/NowPlayingPage.png)
+![NowPlaying Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/NowPlayingPage.png)
+![TopRated Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/TopRatedPage.png)
+![Upcoming Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/UpcomingPage.png)
+![Actor Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ActorPage.png)
+![Actor's Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/Actor'sMediaPage.png)
+![Media Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/MediaPage.png)
+![Favorites Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/FavoritesPage.png)
+
 ---
