@@ -128,7 +128,7 @@ The Movie Recommendation Website was developed to provide a seamless user experi
 
 Here are some screenshots of the Movie Recommendation Website:
 
-(https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/mainScreenShotsHomePage.png)
-(https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ResultPage.png)
-(https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/NowPlayingPage.png)
+![Home page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/mainScreenShotsHomePage.png)
+![Result Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/ResultPage.png)
+![now Playing Page Screenshot](https://github.com/YoussefShaban20210472/MovieRecommendationWebsite/blob/main/ScreenShots/NowPlayingPage.png)
 ---
